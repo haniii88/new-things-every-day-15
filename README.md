@@ -1,4 +1,4 @@
-from datetime import datetime
+from datetime import datetim
 import random
 
 def new_things_every_day_15():
